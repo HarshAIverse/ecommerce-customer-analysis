@@ -1,4 +1,4 @@
-# ecommerce-customer-analysis
+
 # 🛍️ E-Commerce Customer Behavior Analysis
 
 ## 📊 Overview
@@ -28,6 +28,7 @@ This project analyzes customer purchase behavior from a UK-based online retail d
 <img width="995" height="486" alt="output3" src="https://github.com/user-attachments/assets/1512d817-5553-469c-8032-21f966866e91" />
 <img width="826" height="474" alt="output4" src="https://github.com/user-attachments/assets/c8f45487-36da-42e3-9351-d389c251d636" />
 <img width="560" height="559" alt="output5" src="https://github.com/user-attachments/assets/66c520bf-f638-4584-9e8a-ff32ae1e2904" />
+
 
 
 
