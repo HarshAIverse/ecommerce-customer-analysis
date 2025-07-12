@@ -23,7 +23,8 @@ This project analyzes customer purchase behavior from a UK-based online retail d
 
 
 ## 📸 Sample Visuals
-*(Attach bar chart of top products, line chart of sales trend, etc.)*
+<img width="461" height="665" alt="output1" src="https://github.com/user-attachments/assets/04385a19-4272-404d-9449-577b67ae4fdd" />
+
 
 ## 🚀 How to Run
 1. Clone the repo
